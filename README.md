@@ -8,6 +8,12 @@ How to run
 https://github.com/RioAdistya/regres-performance-k6-test.git
 ```
 2. Open folder with VSCode
+
+link website for testing 
+```
+https://reqres.in/
+```
+
 3. Run file
 ```
 k6 run loadTest.js
